@@ -13,5 +13,5 @@
 
 [mywebservers:vars]
  myvar01=abc123
- mywebpackonubuntu= apache22222222
+ mywebpackonubuntu= apache2
  mywebpackonRedHat= httpd
