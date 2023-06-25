@@ -1,0 +1,25 @@
+
+---
+student:
+-  name: anil
+   phone: 12365436
+   address: 
+    doorno: 44
+    street: 2
+    pincode: 8523333
+
+ 
+- name: jitu
+  phone: 12365436
+  address:
+       doorno: 43
+       street: 2
+       pincode: 8512222
+
+ 
+- name: sunil
+  phone: 12365436
+  address:
+      doorno: 41
+      street: 2
+      pincode: 52222
