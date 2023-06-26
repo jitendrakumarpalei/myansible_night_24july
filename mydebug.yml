@@ -12,9 +12,9 @@
     apt: 
       name: apache2
       state: present
-    when: myfirsttaskresult.studerr ==""
+    when: myfirsttaskresult.stderr ==""
   -  name: install tree
      apt: 
        name: tree 
        state: present
-     when: myfirsttaskresult.studerr !==""   
+     when: myfirsttaskresult.stderr !==""   
