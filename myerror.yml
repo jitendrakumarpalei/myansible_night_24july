@@ -1,5 +1,5 @@
 ---
-- hosts: 
+- hosts: 172.31.11.153
   become: yes
   tasks:
   - name: install git
@@ -15,4 +15,4 @@
     apt: 
       name: wget 
       state: present 
-        
+
