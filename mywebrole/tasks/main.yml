@@ -1,6 +1,6 @@
 ---
 # tasks file for mywebrole
-- name: i want to install webserbers 
+- name: i want to install webserber
   apt: 
     name: apache2
     state: present 
